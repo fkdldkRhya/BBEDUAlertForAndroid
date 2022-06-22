@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_baseline_home_24"
+        text="@string/text_home_page" />
+
+    <tab
+        drawable="@drawable/ic_baseline_message_24"
+        text="@string/text_message_send" />
+
+    <tab
+        drawable="@drawable/ic_baseline_settings_24"
+        text="@string/text_setting" />
+</tabs>

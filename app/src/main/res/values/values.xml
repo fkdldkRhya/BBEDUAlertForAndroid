@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="progressWheelColor"/>
+    <attr format="color" name="dialogBackgroundColor"/>
+    <attr format="color" name="appBarBackgroundColor"/>
+</resources>

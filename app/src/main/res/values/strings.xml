@@ -1,0 +1,83 @@
+<resources>
+    <!--=============================================== Firebase Google Login Web Client ID ===============================================-->
+    <string name="firebase_auth_web_client_id">19343207302-o5oje40gg0kt54e9utn6taerud5hgtsb.apps.googleusercontent.com</string>
+    <!--===================================================================================================================================-->
+
+    <!--=================================================== Notification ID and Channel ===================================================-->
+    <string name="notification_channel_id">kro_kr_rhya_network_seoulbukbudistrictofficeofeducationalerts_id</string>
+    <string name="notification_channel_name">kro_kr_rhya_network_seoulbukbudistrictofficeofeducationalerts</string>
+    <!--===================================================================================================================================-->
+
+    <!--============================================================ File data ============================================================-->
+    <string name="path_receive_notification">receive_notification.rhya</string>
+    <string name="path_request_notification">request_notification.rhya</string>
+    <!--===================================================================================================================================-->
+
+
+    <string name="app_name">서울북부교육지원청 알리미</string>
+    <string name="app_sub_name">서울특별시북부교육지원청\n알리미</string>
+    <string name="text_initializing">Initializing…</string>
+    <string name="text_check_update">Checking for updates…</string>
+    <string name="text_check_permission">Checking permissions…</string>
+    <string name="text_check_login">Checking login…</string>
+    <string name="text_verifying_user_authentication">Verifying user authentication…</string>
+    <string name="text_welcome">Welcome!!</string>
+    <string name="text_loading">Loading…</string>
+    <string name="text_file_download_manager">파일 다운로드 관리자</string>
+    <string name="text_file_upload_manager">파일 업로드 관리자</string>
+    <string name="text_download_manager_message">해당 페이지의 <font color='#2F75FF'>다운로드</font> 가능한 파일들입니다. 만약 해당 파일이 아래의 리스트에 없다면 웹브라우저를 이용해 <font color='#2F75FF'>내려받아</font> 주세요.</string>
+    <string name="text_cancel">취소</string>
+    <string name="text_next">다음</string>
+    <string name="text_no_value">No value</string>
+    <string name="text_setting">설정</string>
+    <string name="text_message_send">메시지</string>
+    <string name="text_home_page">홈 화면</string>
+    <string name="text_add_user">사용자 등록</string>
+    <string name="text_add_user_message">해당 서비스를 이용하기 전에 먼저 <font color='#2F75FF'>사용자를 등록</font>해야 합니다. <font color='#2F75FF'>등록번호</font>를 입력해 주세요. (단, 하이폰[-]도 입력해주십시오.)</string>
+    <string name="text_founder_name">설립자 이름</string>
+    <string name="text_reg_num">등록번호</string>
+    <string name="text_need_update">업데이트 필요</string>
+    <string name="text_need_update_message">구버전 클라이언트로 접속하였습니다. 최신버전의 클라이언트로 <font color='#2F75FF'>업데이트</font>해 주세요. 업데이트 버튼을 클릭하면 업데이트 페이지로 이동됩니다.</string>
+    <string name="text_update">업데이트</string>
+    <string name="text_access_block">앱 접근 거부됨</string>
+    <string name="text_access_block_message">현재 해당 서비스에 대한 <font color='#2F75FF'>접근이 거부</font>되어있습니다. 앱 <font color='#2F75FF'>점검</font>이 진행 중일 수도 있습니다. 만약 이러한 상태가 계속 지속된다면 <font color='#2F75FF'>관리자</font>에게 문의해주십시오.</string>
+    <string name="text_send">전송</string>
+    <string name="text_title">제목</string>
+    <string name="text_message_input">메시지 내용</string>
+    <string name="text_tab_layout_title_1">메시지 쓰기</string>
+    <string name="text_tab_layout_title_2">메시지 발신 기록</string>
+    <string name="text_tab_layout_title_3">메시지 수신 기록</string>
+    <string name="text_plz_inout_message">메시지를 입력해 주세요.</string>
+    <string name="text_attachments">첨부파일</string>
+    <string name="text_message_write">메시지 전송</string>
+    <string name="text_upload_manager_message">업로드를 진행할 파일을 선택해주세요.</string>
+    <string name="text_file_select">파일 선택</string>
+    <string name="text_select_reset">선택 초기화</string>
+    <string name="text_message_result">메시지 전송 결과</string>
+    <string name="text_close">닫기</string>
+    <string name="text_message_result_message">메시지 전송 과정에서 다음과 같은 <font color='#2F75FF'>오류</font>가 발생하였습니다. 확인해 주세요.</string>
+    <string name="text_remove">지우기</string>
+    <string name="text_request_info">발신자 정보</string>
+    <string name="text_message_request_log_view_message">서울북부지원교육청으로 <font color='#2F75FF'>발송</font>한 메시지 전송 기록입니다. 해당 기록은 <font color='#2F75FF'>최대 90개</font>까지 보관되며 초과 시 오래된 메시지부터 <font color='#2F75FF'>제거</font>됩니다.</string>
+    <string name="text_message_response_log_view_message">서울북부지원교육청으로 부터 <font color='#2F75FF'>수신받은</font> 메시지 기록입니다. 해당 기록은 <font color='#2F75FF'>최대 90개</font>까지 보관되며 초과 시 오래된 메시지부터 <font color='#2F75FF'>제거</font>됩니다.</string>
+    <string name="text_message_more_info">메시지 상세 기록</string>
+    <string name="text_message_text">메시지 내용</string>
+    <string name="text_context">내용</string>
+    <string name="text_error_checker">오류 발생 여부</string>
+    <string name="text_message_info_more">해당 메시지의 추가 정보입니다.</string>
+    <string name="app_sub_name_no_next_line">서울특별시북부교육지원청 알리미</string>
+    <string name="text_user_n_info">사용자 기본 정보</string>
+    <string name="text_app_setting">앱 설정</string>
+    <string name="text_notice_get_setting">알림 수신 설정</string>
+    <string name="text_data_reset">데이터 초기화</string>
+    <string name="text_account_setting">계정 설정</string>
+    <string name="text_google_account_logout">구글 계정 로그아웃</string>
+    <string name="text_remove_account">계정 삭제하기</string>
+    <string name="text_dev_info">개발자 정보</string>
+    <string name="text_license">MIT License\nCopyright © 2022 CHOI SI-HUN (최시훈)</string>
+    <string name="text_license_for_mit">Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+    <string name="text_logout">로그아웃</string>
+    <string name="text_logout_message">정말로 <font color='#2F75FF'>로그아웃</font>을 진행하시겠습니까? <font color='#2F75FF'>로그아웃</font> 버튼을 누르면 해당 계정에 대한 <font color='#2F75FF'>로그아웃</font> 작업이 진행됩니다. 만약 이 작업을 원치 않으면 취소 버튼을 눌러주세요.</string>
+    <string name="text_account_remove_message">정말로 계정을 <font color='#2F75FF'>제거</font>하시겠습니까? 만약 이 작업을 원치 않으면 취소 버튼을 눌러주세요.</string>
+    <string name="text_account_remove">계정 삭제</string>
+</resources>

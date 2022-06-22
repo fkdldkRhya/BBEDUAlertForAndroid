@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19343207302",
+    "firebase_url": "https://rhya-network-bbedu-alert-e768b-default-rtdb.firebaseio.com",
+    "project_id": "rhya-network-bbedu-alert-e768b",
+    "storage_bucket": "rhya-network-bbedu-alert-e768b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19343207302:android:4a93bdd2262a2aa8739a07",
+        "android_client_info": {
+          "package_name": "kro.kr.rhya_network.seoulbukbudistrictofficeofeducationalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19343207302-q9vvkpgalojmmu07s0rhen547ikc4gga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kro.kr.rhya_network.seoulbukbudistrictofficeofeducationalert",
+            "certificate_hash": "85eefb07a587c913c4646a46f1a5efb097b656d7"
+          }
+        },
+        {
+          "client_id": "19343207302-o5oje40gg0kt54e9utn6taerud5hgtsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKOSzwV1hokHyofquSLvRSKb0Vd6gg68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19343207302-o5oje40gg0kt54e9utn6taerud5hgtsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

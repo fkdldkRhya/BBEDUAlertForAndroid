@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_1.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_2.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_3.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_4.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_5.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_app_logo_no_background.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_logo_sbdooe_window.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/tabs_selector.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/activity_splash.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_add_user.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_app_update.xml" value="0.3428442028985507" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_send_message.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_setting.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo_round.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/Android/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_1.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_2.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_3.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_4.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_5.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/button_for_dialog_1.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/checkbox_custom_ui.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/dialog_message_info_for_request.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_app_logo_no_background.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_autorenew_24.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_download_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_insert_drive_file_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_person_remove_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.1984375" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/popupmenu_round_layout.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/radius_1.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/radius_2.xml" value="0.16822916666666668" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/radius_3.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/drawable/tabs_selector.xml" value="0.3640625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/font/font.xml" value="0.378125" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/activity_splash.xml" value="0.5" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_access_block.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_add_user.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_app_update.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_download_file.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_file_upload.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_loading.xml" value="0.5" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_message_info_for_request.xml" value="0.22" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_message_info_for_response.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_select_2.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_select_2_for_account_remove.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_task.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_task_bottom.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/dialog_upload_result.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_home.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_message.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_send_message.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_view_response_message.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/fragment_view_send_message.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/item_download_file.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/item_file_upload.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/item_request_message_log.xml" value="0.33" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/layout/layout_bottombar_item.xml" value="0.5308788598574822" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/menu/menu_setting_popupmenu.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20625" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/xml/network_security_config.xml" value="0.34791666666666665" />
+        <entry key="..\:/Seoul_bukbu_District_Office_of_Education_Alerts/app/src/main/res/xml/tabs.xml" value="0.34791666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

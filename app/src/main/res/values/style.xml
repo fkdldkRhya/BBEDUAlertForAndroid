@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PopupMenu Style -->
+    <style name="RoundPopupMenuStyle" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/popupmenu_round_layout</item>
+        <item name="android:fontFamily">@font/esamanru_medium</item>
+        <item name="android:textSize">13sp</item>
+        <item name="tabGravity">fill</item>
+    </style>
+</resources>

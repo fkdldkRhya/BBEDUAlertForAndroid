@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="sticky"
+
+    android:orientation="vertical"
+
+    tools:context=".fragment.FragmentSetting">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="30dp"
+
+            android:layout_height="30dp"
+
+            android:layout_marginStart="15dp"
+
+            android:layout_marginTop="10dp"
+
+            android:contentDescription="@null"
+            android:scaleType="center"
+
+            android:src="@drawable/ic_baseline_settings_24"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/blue_1" />
+
+        <TextView
+            android:id="@+id/titleForSetting"
+
+            style="@style/customTextViewColorMedium"
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center"
+
+            android:layout_marginStart="5dp"
+
+            android:text="@string/text_setting"
+            android:textSize="18sp"
+
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintStart_toEndOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:overScrollMode="never"
+
+        android:scrollbars="none">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:background="@drawable/radius_3">
+
+                <TextView
+                    android:id="@+id/titleForUserInfo"
+
+                    style="@style/customTextViewColorMedium"
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:layout_gravity="center"
+
+                    android:layout_marginStart="10dp"
+
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+
+                    android:text="@string/text_user_n_info"
+                    android:textSize="15sp"
+
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/nameForUserIcon"
+
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginStart="15dp"
+
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@null"
+
+                    android:src="@drawable/ic_baseline_business_24"
+
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/titleForUserInfo"
+                    app:tint="@color/blue_1" />
+
+                <TextView
+                    android:id="@+id/nameForUserTextView"
+
+                    style="@style/customTextViewColorLight"
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:layout_gravity="center"
+
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="15dp"
+
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:textSize="13sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/nameForUserIcon"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/nameForUserIcon"
+                    app:layout_constraintTop_toTopOf="@+id/nameForUserIcon" />
+
+                <ImageView
+                    android:id="@+id/nameForFounderIcon"
+
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginStart="15dp"
+
+                    android:layout_marginTop="5dp"
+
+                    android:contentDescription="@null"
+
+                    android:src="@drawable/ic_baseline_person_24"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/nameForUserIcon"
+                    app:tint="@color/blue_1" />
+
+                <TextView
+                    android:id="@+id/founderForUserTextView"
+
+                    style="@style/customTextViewColorLight"
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:layout_gravity="center"
+
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="15dp"
+
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:textSize="13sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/nameForFounderIcon"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/nameForUserIcon"
+                    app:layout_constraintTop_toTopOf="@+id/nameForFounderIcon" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                style="@style/customTextViewColorMedium"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="10dp"
+
+                android:text="@string/text_app_setting"
+                android:textSize="15sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <ImageView
+                    android:id="@+id/noticeNoOffImageView"
+                    android:layout_width="33dp"
+
+                    android:layout_height="33dp"
+
+                    android:layout_marginStart="15dp"
+                    android:contentDescription="@null"
+
+                    android:src="@drawable/ic_baseline_notifications_active_24"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/noticeNoOffTextView"
+
+                    style="@style/customTextViewColorLight"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:textSize="14sp"
+
+                    android:text="@string/text_notice_get_setting"
+
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/noticeNoOffCheckbox"
+                    app:layout_constraintStart_toEndOf="@+id/noticeNoOffImageView"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <CheckBox
+                    android:id="@+id/noticeNoOffCheckbox"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+
+                    android:layout_marginEnd="15dp"
+
+                    android:background="@drawable/checkbox_custom_ui"
+                    android:button="@null"
+
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/dataReset"
+
+                style="@style/customTextViewColorLight"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+
+                android:background="@drawable/button_5"
+                android:stateListAnimator="@null"
+
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:drawablePadding="10dp"
+                android:drawableStart="@drawable/ic_baseline_autorenew_24"
+
+                android:textSize="14sp"
+                android:gravity="start|center_vertical"
+                android:text="@string/text_data_reset"/>
+
+            <TextView
+                style="@style/customTextViewColorMedium"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="10dp"
+
+                android:text="@string/text_account_setting"
+                android:textSize="15sp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/accountLogOut"
+
+                style="@style/customTextViewColorLight"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+
+                android:background="@drawable/button_5"
+                android:stateListAnimator="@null"
+
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:drawablePadding="10dp"
+                android:drawableStart="@drawable/ic_baseline_logout_24"
+
+                android:textSize="14sp"
+                android:gravity="start|center_vertical"
+                android:text="@string/text_google_account_logout"
+                android:textColor="@color/red_1"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/accountRemoveAccount"
+
+                style="@style/customTextViewColorLight"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+
+                android:background="@drawable/button_5"
+                android:stateListAnimator="@null"
+
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:drawablePadding="10dp"
+                android:drawableStart="@drawable/ic_baseline_person_remove_24"
+
+                android:visibility="gone"
+
+                android:textSize="14sp"
+                android:gravity="start|center_vertical"
+                android:text="@string/text_remove_account"
+                android:textColor="@color/red_1"/>
+
+            <TextView
+                style="@style/customTextViewColorMedium"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="10dp"
+
+                android:text="@string/text_dev_info"
+                android:textSize="15sp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                style="@style/customTextViewColorLight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:background="@drawable/button_5"
+                android:stateListAnimator="@null"
+
+                android:paddingStart="15dp"
+                android:paddingBottom="15dp"
+                android:paddingEnd="15dp"
+                android:paddingTop="15dp"
+
+                android:gravity="start|center_vertical"
+                android:text="@string/text_license"
+                android:textSize="12sp"
+                android:textColor="@color/gray_2"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                style="@style/customTextViewColorLight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:background="@drawable/button_5"
+                android:stateListAnimator="@null"
+
+                android:paddingStart="15dp"
+                android:paddingBottom="15dp"
+                android:paddingEnd="15dp"
+                android:paddingTop="15dp"
+
+                android:gravity="start|center_vertical"
+                android:text="@string/text_license_for_mit"
+                android:textSize="10sp"
+                android:textColor="@color/gray_2"
+                tools:ignore="SmallSp" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </ScrollView>
+</androidx.appcompat.widget.LinearLayoutCompat>
